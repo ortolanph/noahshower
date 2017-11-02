@@ -1,0 +1,26 @@
+div {
+  margin-right: 5%;
+  margin-left: 5%;
+  background-image: url(pattern.jpg);
+}
+
+body {
+  font-family: cursive;
+  background-color: #95B9C7;
+}
+
+h1 {
+  padding: 10px;
+  color: navy;
+}
+
+.summoning {
+  padding: 10px;
+  font-size: 18pt;
+  color: navy;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
